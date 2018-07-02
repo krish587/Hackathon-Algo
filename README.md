@@ -3,9 +3,11 @@ Solutions to Hackathon problems &amp; Algos
 
 1st problem
 Triangle T sum:
-1
-2 3
-4 5 6
+1\n
+
+2 3\n
+
+4 5 6\n
 
 find the max sum in Triangle T sum.
 Rules: Starts from the top, top value can check the next bottom two values.
