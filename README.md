@@ -5,7 +5,9 @@ Solutions to Hackathon problems &amp; Algos
 Triangle T sum:
 
 1 
+
 2 3 
+
 4 5 6
 
 find the max sum in Triangle T sum.
