@@ -17,4 +17,9 @@ Example1: lets take 1, 1 can select 2 or 3 , if it select 2 next we can select o
 Example2: lets take 1, 1 can select 2 or 3 if it select 3 we can select only 5 or 6, if it select 5 . total sum(1+3+5)
 
 
+execution:
+
+python triangle_tsum.py '["1","2 3","4 5 6"]'
+
+
 
